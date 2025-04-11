@@ -1,0 +1,5 @@
+[0410/211503.235:ERROR:main_delegate.cc(707)] Could not load cef_100_percent.pak
+[0410/211503.235:ERROR:main_delegate.cc(716)] Could not load cef_200_percent.pak
+[0410/211503.235:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0410/211508.626:INFO:CONSOLE(14)] "[object Object]", source: file:///C:/Users/User/AppData/Local/TTKN/HOME/js/FavorateGroupOperator.js (14)
+[0410/211508.634:INFO:CONSOLE(54)] "[object Object]", source: file:///C:/Users/User/AppData/Local/TTKN/HOME/js/collectfileOperator.js (54)
